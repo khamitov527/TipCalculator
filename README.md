@@ -34,11 +34,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+While I was working on the project, I referred to the old swift documentation and had some errors based on the version of swift. However, later on I figured everything out by changing settings and opening the updated documention.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Akylbek Khamitov]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
