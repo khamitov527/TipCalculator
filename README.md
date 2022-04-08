@@ -15,12 +15,10 @@ The following functionalities are completed:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user features:
 
-![](https://i.imgur.com/Z9eCWap.gif)
-
-
-GIF created with [ezgif.com](https://ezgif.com/video-to-gif).
+<img src='https://i.imgur.com/Z9eCWap.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
+![]()
 
 ## Notes
 
