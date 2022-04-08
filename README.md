@@ -18,7 +18,6 @@ The following functionalities are completed:
 Here's a walkthrough of implemented user features:
 
 <img src='https://i.imgur.com/Z9eCWap.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
-![]()
 
 ## Notes
 
